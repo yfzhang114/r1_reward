@@ -38,8 +38,8 @@
 
 ### **1.1. Clone the Repository:**
 ```bash
-git clone https://github.com/yfzhang114/R1-Reward
-cd R1-Reward
+git clone https://github.com/yfzhang114/r1_reward
+cd r1_reward
 ```
 ### **1.2. Create Conda Environment and Install Dependencies:**
 
