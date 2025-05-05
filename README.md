@@ -17,7 +17,7 @@
     *   **3.5%** improvement on MM-RLHF Reward-Bench.
     *   **14.6%** improvement on Multimodal Reward Bench.
 *   **StableReinforce Algorithm:** A novel reinforcement learning method that enhances the Reinforce++ approach by improving training loss stability, advantage estimation, and reward function design.
-*   **Open-Source Resources:** We provide the R1-Reward model, the R1-Reward RL training dataset, and inference code for evaluation.
+*   **Open-Source Resources:** We provide the R1-Reward model, the R1-Reward RL training dataset, and inference code for IXC-Reward，MM-RLHF Reward and R1-Reward on the three benchmarks in Figure 1.
 
 <p align="center" width="100%">
 <img src="docs/teaser.png"  width="100%" height="100%">
