@@ -3,7 +3,7 @@
 </p>
 
 <font size=7><div align='center' >  
-[[📖 arXiv Paper](https://arxiv.org/abs/2502.10391)] 
+[[📖 arXiv Paper](https://arxiv.org/abs/2505.02835)] 
 [[📊 R1-Reward Model](https://huggingface.co/yifanzhang114/R1-Reward)] 
 [[📝 R1-Reward Data](https://huggingface.co/datasets/yifanzhang114/R1-Reward-RL)] 
 </div></font>
@@ -303,10 +303,10 @@ print(f"Final Rewards: {rewards}") # rewards[0] for Response 1, rewards[1] for R
 If you find R1-Reward or StableReinforce useful in your research or applications, please cite our paper:
 
 ```bibtex
-@article{zhang2025mm,
-  title={MM-RLHF: The Next Step Forward in Multimodal LLM Alignment},
-  author={Zhang, Yi-Fan and Yu, Tao and Tian, Haochen and Fu, Chaoyou and Li, Peiyan and Zeng, Jianshu and Xie, Wulin and Shi, Yang and Zhang, Huanyu and Wu, Junkang and others},
-  journal={arXiv preprint arXiv:2502.10391},
+@article{zhang2025r1,
+  title={R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning},
+  author={Zhang, Yi-Fan and Lu, Xingyu and Hu, Xiao and Fu, Chaoyou and Wen, Bin and Zhang, Tianke and Liu, Changyi and Jiang, Kaiyu and Chen, Kaibing and Tang, Kaiyu and others},
+  journal={arXiv preprint arXiv:2505.02835},
   year={2025}
 }
 ```
